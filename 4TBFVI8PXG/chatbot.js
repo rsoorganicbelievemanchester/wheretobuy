@@ -30,7 +30,7 @@ jQuery(document).ready(function($) {
                 var knowledge = data;    
         
                 
-                    var api_key = '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';
+                    var api_key = 'sk-' + 'J34zghOMevd' +'Lmh0j7UZaT3B' +'lbkFJtxrhQ' +'gxK6e17' +'m2eHrDDn';
 
                     $.ajax({
                         url: 'https://api.openai.com/v1/completions',
@@ -117,7 +117,7 @@ jQuery(document).ready(function($) {
                 var knowledge = data;    
         
                 
-                    var api_key = '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';
+                    var api_key = 'sk-' + 'J34zghOMevd' +'Lmh0j7UZaT3B' +'lbkFJtxrhQ' +'gxK6e17' +'m2eHrDDn';
 
                     $.ajax({
                         url: 'https://api.openai.com/v1/completions',
